@@ -3,7 +3,7 @@
 ### Project Architectural Diagram
 ![AmaliTech HLD](./MD-images/HLD.png)
 
-We are going to use Terraform to provision the resources in the the Architectural Diagram; a CI/CD infrastructure on AWS Cloudf for a fictional company called **Alpha**. 
+We are going to use Terraform to provision the resources in the the Architectural Diagram; a CI/CD infrastructure on AWS Cloud for a fictional company called **Alpha**. 
 
 The resources to be provisioned as found in the HLD (Architectural Diagram) includes: 
 
